@@ -1,0 +1,21 @@
+{
+    "plugins": [
+		"back-to-top-button",
+		"collapsible-menu",
+		"toggle-chapters",
+		"theme-comscore",
+		"mathjax-pro",
+		"-lunr"
+	],
+    "pdf":{
+        "pageNumbers":true,
+        "fontSize":22,
+        "paperSize":"a4",
+	"margin": {
+		"right": 30,
+		"left": 30,
+		"top": 30,
+		"bottom": 50
+	}
+    }
+}
